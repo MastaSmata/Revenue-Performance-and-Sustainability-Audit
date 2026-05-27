@@ -15,29 +15,18 @@ The objective was to identify growth drivers, reduce instability, and support lo
 
 ## Solution
 
-<h2 style="border:none;">Solution</h2>
+<br>
 
-<p>
-Based on the dataset provided and stakeholder expectations, the audit was executed in five structured phases to evaluate revenue quality, customer sustainability, and regional performance efficiency.
-</p>
+<table align="center">
 
-<hr>
-
-<h1>Phase 1 — Metrics & KPI Definition</h1>
-
-<p>
-Defined the core business metrics and KPIs required to evaluate revenue quality, customer value sustainability, operational efficiency, and revenue concentration risk.
-</p>
-
-<h3>A. Core Financial & Revenue Concentration Metrics</h3>
-
-<table>
 <tr>
-<th>Metric</th>
-<th>Purpose</th>
+<th>KPI Category</th>
+<th>Specific Metrics Executed</th>
+<th>Specific Purpose</th>
 </tr>
 
 <tr>
+<td rowspan="5"><b>Core Financial & Revenue Concentration Metrics</b></td>
 <td>Total Revenue & YoY Growth</td>
 <td>Evaluate overall revenue growth performance across periods</td>
 </tr>
@@ -62,19 +51,8 @@ Defined the core business metrics and KPIs required to evaluate revenue quality,
 <td>Measure instability and fluctuation in regional revenue performance</td>
 </tr>
 
-</table>
-
-<br>
-
-<h3>B. Customer Quality & Customer Economics Metrics</h3>
-
-<table>
 <tr>
-<th>Metric</th>
-<th>Purpose</th>
-</tr>
-
-<tr>
+<td rowspan="7"><b>Customer Quality & Customer Economics Metrics</b></td>
 <td>Customer Growth YoY</td>
 <td>Measure how customer growth contributes to revenue expansion</td>
 </tr>
@@ -109,19 +87,8 @@ Defined the core business metrics and KPIs required to evaluate revenue quality,
 <td>Measure how customer value evolves after acquisition</td>
 </tr>
 
-</table>
-
-<br>
-
-<h3>C. Regional Sales Operations & Performance Metrics</h3>
-
-<table>
 <tr>
-<th>Metric</th>
-<th>Purpose</th>
-</tr>
-
-<tr>
+<td rowspan="6"><b>Regional Sales Operations & Performance Metrics</b></td>
 <td>Total Revenue by Region</td>
 <td>Compare yearly revenue performance across regions</td>
 </tr>
