@@ -150,7 +150,9 @@ Defined the core business metrics and KPIs required.
 
 </table>
 
+<hr>
 
+<h3> Phase 2 - Phase5: Technical Workflow & Implementation
 <table border="1" cellpadding="10" cellspacing="0">
     <thead>
         <tr>
@@ -160,7 +162,7 @@ Defined the core business metrics and KPIs required.
     </thead>
     <tbody>
         <tr>
-            <td>Phase 2 — SQL Data Modeling & Metric Calculation</td>
+            <td> ### Phase 2 — SQL Data Modeling & Metric Calculation</td>
             <td>
                 <ul>
                     <li>Clean and standardize data to improve consistency and accuracy</li>
@@ -170,15 +172,15 @@ Defined the core business metrics and KPIs required.
             </td>
         </tr>
         <tr>
-            <td>Phase 3 — Python Analysis & Visualization</td>
+            <td> ### Phase 3 — Python Analysis & Visualization</td>
             <td>Python was used for exploratory analysis, statistical comparison and trend visualization.</td>
         </tr>
         <tr>
-            <td>Phase 4 — Power BI Dashboard Development</td>
+            <td> ### Phase 4 — Power BI Dashboard Development</td>
             <td>Power BI was used to develop an interactive business intelligence dashboard for KPI monitoring, storytelling, and executive decision support.</td>
         </tr>
         <tr>
-            <td>Phase 5 — Executive Presentation & Strategic Reporting</td>
+            <td> ### Phase 5 — Executive Presentation & Strategic Reporting</td>
             <td>PowerPoint was used to develop an executive-level presentation summarizing the key insights.</td>
         </tr>
     </tbody>
