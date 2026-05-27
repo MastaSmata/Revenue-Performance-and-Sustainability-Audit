@@ -15,13 +15,10 @@ The objective was to identify growth drivers, reduce instability, and support lo
 
 ## Solution
 
-<h2 style="border:none;">Solution</h2>
-
 <p>
 Based on the dataset provided and stakeholder expectations, the audit was executed in five structured phases to evaluate revenue quality, customer sustainability, and regional performance efficiency.
 </p>
 
-<hr>
 
 <h1>Phase 1 — Metrics & KPI Definition</h1>
 
