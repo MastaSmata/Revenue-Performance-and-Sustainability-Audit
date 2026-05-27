@@ -172,19 +172,6 @@ Used SQL to:
 Python was used for exploratory analysis, statistical comparison and trend visualization.
 </p>
 
-<h3>Key Activities</h3>
-
-<ul>
-<li>Revenue trend analysis</li>
-<li>Customer value analysis</li>
-<li>Cohort progression analysis</li>
-<li>Customer segmentation modeling</li>
-<li>Regional performance comparison</li>
-<li>Revenue concentration analysis</li>
-<li>Comparative visualizations and insight generation</li>
-</ul>
-
-
 
 <h2>Phase 4 — Power BI Dashboard Development</h2>
 
@@ -192,19 +179,6 @@ Python was used for exploratory analysis, statistical comparison and trend visua
 Power BI was used to develop an interactive business intelligence dashboard for KPI monitoring, storytelling, and executive decision support.
 </p>
 
-<h3>Key Components</h3>
-
-<ul>
-<li>DAX metric calculations</li>
-<li>Interactive filtering and drill-through analysis</li>
-<li>Customer segmentation dashboard</li>
-<li>Cohort analysis dashboard</li>
-<li>Regional performance dashboard</li>
-<li>Revenue trend and concentration analysis</li>
-<li>Strategic insight presentation</li>
-</ul>
-
-<hr>
 
 <h2>Phase 5 — Executive Presentation & Strategic Reporting</h2>
 
@@ -212,14 +186,7 @@ Power BI was used to develop an interactive business intelligence dashboard for 
 PowerPoint was used to develop an executive-level presentation summarizing:
 </p>
 
-<ul>
-<li>Core business findings</li>
-<li>Revenue sustainability risks</li>
-<li>Customer quality deterioration</li>
-<li>Regional operational performance</li>
-<li>Strategic recommendations</li>
-<li>Long-term business improvement opportunities</li>
-</ul>
+
 
 
 ---
@@ -227,9 +194,9 @@ PowerPoint was used to develop an executive-level presentation summarizing:
 
 # Key Insights
 
-## 1. Decline in Customer LIfe Time Value Despite the Massive Growth in Revenue. 
+## 1. Decline in Customer Lifetime Value Despite the Massive Growth in Revenue. 
 
-Revenue increased significantly in 2025, but customer quality weakened beneath the surface.
+Revenue increased significantly in 2025, but customer quality went down.
 
 <div style="display:flex; gap:15px; flex-wrap:wrap;">
   <img src="https://github.com/user-attachments/assets/827f3af9-0456-4646-9c2f-3b75f54ce9d4" width="32%" />
