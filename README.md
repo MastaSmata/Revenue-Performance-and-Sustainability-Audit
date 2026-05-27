@@ -15,18 +15,29 @@ The objective was to identify growth drivers, reduce instability, and support lo
 
 ## Solution
 
-<br>
+<h2 style="border:none;">Solution</h2>
 
-<table align="center">
+<p>
+Based on the dataset provided and stakeholder expectations, the audit was executed in five structured phases to evaluate revenue quality, customer sustainability, and regional performance efficiency.
+</p>
 
+<hr>
+
+<h1>Phase 1 — Metrics & KPI Definition</h1>
+
+<p>
+Defined the core business metrics and KPIs required.
+</p>
+
+<h3>A. Core Financial & Revenue Concentration Metrics</h3>
+
+<table>
 <tr>
-<th>KPI Category</th>
-<th>Specific Metrics Executed</th>
-<th>Specific Purpose</th>
+<th>Metric</th>
+<th>Purpose</th>
 </tr>
 
 <tr>
-<td rowspan="5"><b>Core Financial & Revenue Concentration Metrics</b></td>
 <td>Total Revenue & YoY Growth</td>
 <td>Evaluate overall revenue growth performance across periods</td>
 </tr>
@@ -51,8 +62,19 @@ The objective was to identify growth drivers, reduce instability, and support lo
 <td>Measure instability and fluctuation in regional revenue performance</td>
 </tr>
 
+</table>
+
+<br>
+
+<h3>B. Customer Quality & Customer Economics Metrics</h3>
+
+<table>
 <tr>
-<td rowspan="7"><b>Customer Quality & Customer Economics Metrics</b></td>
+<th>Metric</th>
+<th>Purpose</th>
+</tr>
+
+<tr>
 <td>Customer Growth YoY</td>
 <td>Measure how customer growth contributes to revenue expansion</td>
 </tr>
@@ -87,8 +109,19 @@ The objective was to identify growth drivers, reduce instability, and support lo
 <td>Measure how customer value evolves after acquisition</td>
 </tr>
 
+</table>
+
+<br>
+
+<h3>C. Regional Sales Operations & Performance Metrics</h3>
+
+<table>
 <tr>
-<td rowspan="6"><b>Regional Sales Operations & Performance Metrics</b></td>
+<th>Metric</th>
+<th>Purpose</th>
+</tr>
+
+<tr>
 <td>Total Revenue by Region</td>
 <td>Compare yearly revenue performance across regions</td>
 </tr>
@@ -141,7 +174,7 @@ SQL was used to transform raw transactional datasets into structured analytical 
 
 <tr>
 <td>Aggregate Table Creation</td>
-<td>Built summary tables for revenue, customers, regions, and sales operations</td>
+<td>developed aggregate tables to pre-calculate metrics before loading data into Power BI, significantly enhancing dashboard performance.</td>
 </tr>
 
 <tr>
@@ -222,32 +255,10 @@ PowerPoint was used to develop an executive-level presentation summarizing:
 <li>Strategic recommendations</li>
 <li>Long-term business improvement opportunities</li>
 </ul>
----
 
-# Deliverables
-
-### 1. Executive Presentation
-
-A business-focused slide deck covering:
-
-* Revenue growth drivers
-* Customer quality changes
-* Regional performance
-* Revenue risks
-* Strategic recommendations
-
-### 2. Interactive Power BI Dashboard
-
-A storytelling dashboard featuring:
-
-* Customer analysis
-* Cohort analysis
-* Segmentation
-* Regional performance
-* Revenue trends
-* Strategic insights
 
 ---
+
 
 # Key Insights
 
