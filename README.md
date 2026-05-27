@@ -166,9 +166,9 @@ Defined the core business metrics and KPIs required.
             <td><h3> Phase 2 — SQL Data Modeling & Metric Calculation </h3></td>
             <td>
                 <ul>
-                    <li>Clean and standardize data to improve consistency and accuracy</li>
-                    <li>Create aggregate tables to pre-calculate metrics for faster Power BI dashboards</li>
-                    <li>Calculate key financial, customer, and operational KPIs</li>
+                    <li>Cleaned and standardized data to improve consistency and accuracy</li>
+                    <li>Created aggregate tables to pre-calculate metrics for faster Power BI dashboards</li>
+                    <li>Calculated key financial, customer, and operational KPIs</li>
                 </ul>
             </td>
         </tr>
