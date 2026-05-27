@@ -151,40 +151,39 @@ Defined the core business metrics and KPIs required.
 </table>
 
 
+<table border="1" cellpadding="10" cellspacing="0">
+    <thead>
+        <tr>
+            <th>Phase</th>
+            <th>Description</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Phase 2 — SQL Data Modeling & Metric Calculation</td>
+            <td>
+                <ul>
+                    <li>Clean and standardize data to improve consistency and accuracy</li>
+                    <li>Create aggregate tables to pre-calculate metrics for faster Power BI dashboards</li>
+                    <li>Calculate key financial, customer, and operational KPIs</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>Phase 3 — Python Analysis & Visualization</td>
+            <td>Python was used for exploratory analysis, statistical comparison and trend visualization.</td>
+        </tr>
+        <tr>
+            <td>Phase 4 — Power BI Dashboard Development</td>
+            <td>Power BI was used to develop an interactive business intelligence dashboard for KPI monitoring, storytelling, and executive decision support.</td>
+        </tr>
+        <tr>
+            <td>Phase 5 — Executive Presentation & Strategic Reporting</td>
+            <td>PowerPoint was used to develop an executive-level presentation summarizing the key insights.</td>
+        </tr>
+    </tbody>
+</table>
 
-<h2>Phase 2 — SQL Data Modeling & Metric Calculation</h2>
-
-<p>
-Used SQL to:
-
-* Clean and standardize data to improve consistency and accuracy
-
-* Create aggregate tables to pre-calculate metrics for faster Power BI dashboards
-
-* Calculate key financial, customer, and operational KPIs
-
-</p>
-
-
-<h2>Phase 3 — Python Analysis & Visualization</h2>
-
-<p>
-Python was used for exploratory analysis, statistical comparison and trend visualization.
-</p>
-
-
-<h2>Phase 4 — Power BI Dashboard Development</h2>
-
-<p>
-Power BI was used to develop an interactive business intelligence dashboard for KPI monitoring, storytelling, and executive decision support.
-</p>
-
-
-<h2>Phase 5 — Executive Presentation & Strategic Reporting</h2>
-
-<p>
-PowerPoint was used to develop an executive-level presentation summarizing:
-</p>
 
 
 
