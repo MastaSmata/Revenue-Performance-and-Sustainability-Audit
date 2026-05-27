@@ -173,15 +173,15 @@ Defined the core business metrics and KPIs required.
             </td>
         </tr>
         <tr>
-            <td> ### Phase 3 — Python Analysis & Visualization</td>
+            <td><h3>Phase 3 — Python Analysis & Visualization</h3></td>
             <td>Python was used for exploratory analysis, statistical comparison and trend visualization.</td>
         </tr>
         <tr>
-            <td> ### Phase 4 — Power BI Dashboard Development</td>
+            <td> <h3> Phase 4 — Power BI Dashboard Development </h3> </td>
             <td>Power BI was used to develop an interactive business intelligence dashboard for KPI monitoring, storytelling, and executive decision support.</td>
         </tr>
         <tr>
-            <td> ### Phase 5 — Executive Presentation & Strategic Reporting</td>
+            <td> <h3> Phase 5 — Executive Presentation & Strategic Reporting </h3></td>
             <td>PowerPoint was used to develop an executive-level presentation summarizing the key insights.</td>
         </tr>
     </tbody>
