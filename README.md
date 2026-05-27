@@ -2,7 +2,7 @@
 # Revenue Performance and Sustainability Audit
 
 
-<h2 style="border:none;">Business Problem</h2>
+## Business Problem
 
 A subscription-based DTC company experienced strong revenue growth in 2025 and needed to understand:
 
@@ -15,26 +15,246 @@ The objective was to identify growth drivers, reduce instability, and support lo
 
 ## Solution
 
-A Revenue Performance Audit was conducted across three core areas:
+<h2 style="border:none;">Solution</h2>
 
-### Revenue Trends (2024 vs 2025)
+<p>
+Based on the dataset provided and stakeholder expectations, the audit was executed in five structured phases to evaluate revenue quality, customer sustainability, and regional performance efficiency.
+</p>
 
-* Identified revenue spikes and inconsistencies
-* Analyzed drivers behind growth surges
-* Assessed whether growth was stable or dependency-driven
+<hr>
 
-### Customer Behaviour & Quality
+<h1>Phase 1 — Metrics & KPI Definition</h1>
 
-* Measured customer value and engagement
-* Analyzed retention, frequency, and customer movement
-* Evaluated whether growth came from loyal or new customers
+<p>
+Defined the core business metrics and KPIs required to evaluate revenue quality, customer value sustainability, operational efficiency, and revenue concentration risk.
+</p>
 
-### Regional Performance
+<h3>A. Core Financial & Revenue Concentration Metrics</h3>
 
-* Compared performance across regions
-* Identified strong vs weak regions
-* Evaluated operational consistency and efficiency
+<table>
+<tr>
+<th>Metric</th>
+<th>Purpose</th>
+</tr>
 
+<tr>
+<td>Total Revenue & YoY Growth</td>
+<td>Evaluate overall revenue growth performance across periods</td>
+</tr>
+
+<tr>
+<td>Regional Revenue Share</td>
+<td>Measure the percentage contribution of each region to total revenue</td>
+</tr>
+
+<tr>
+<td>Customer Concentration %</td>
+<td>Evaluate dependency on Top-, Mid-, and Low-tier customer groups using the 20-30-50 segmentation structure</td>
+</tr>
+
+<tr>
+<td>Revenue Contribution by Customer Tier</td>
+<td>Identify which customer segments drive the highest share of revenue</td>
+</tr>
+
+<tr>
+<td>Revenue Volatility %</td>
+<td>Measure instability and fluctuation in regional revenue performance</td>
+</tr>
+
+</table>
+
+<br>
+
+<h3>B. Customer Quality & Customer Economics Metrics</h3>
+
+<table>
+<tr>
+<th>Metric</th>
+<th>Purpose</th>
+</tr>
+
+<tr>
+<td>Customer Growth YoY</td>
+<td>Measure how customer growth contributes to revenue expansion</td>
+</tr>
+
+<tr>
+<td>Average Order Value (AOV)</td>
+<td>Evaluate average customer spending per transaction</td>
+</tr>
+
+<tr>
+<td>Average Order Frequency</td>
+<td>Measure customer purchasing consistency and engagement</td>
+</tr>
+
+<tr>
+<td>Customer Retention Rate</td>
+<td>Evaluate the ability to retain customers over time</td>
+</tr>
+
+<tr>
+<td>Customer Revenue Growth %</td>
+<td>Identify whether customer segments are growing, stable, declining, or lost</td>
+</tr>
+
+<tr>
+<td>Customer Lifetime Value Trend</td>
+<td>Evaluate long-term customer monetization performance</td>
+</tr>
+
+<tr>
+<td>Cohort Value Expansion</td>
+<td>Measure how customer value evolves after acquisition</td>
+</tr>
+
+</table>
+
+<br>
+
+<h3>C. Regional Sales Operations & Performance Metrics</h3>
+
+<table>
+<tr>
+<th>Metric</th>
+<th>Purpose</th>
+</tr>
+
+<tr>
+<td>Total Revenue by Region</td>
+<td>Compare yearly revenue performance across regions</td>
+</tr>
+
+<tr>
+<td>Sales Rep Distribution by Region</td>
+<td>Analyze operational capacity allocation</td>
+</tr>
+
+<tr>
+<td>Average Revenue per Sales Rep</td>
+<td>Evaluate sales productivity efficiency by region</td>
+</tr>
+
+<tr>
+<td>Revenue Growth Contribution by Region</td>
+<td>Identify which regions drive business growth</td>
+</tr>
+
+<tr>
+<td>Regional Revenue Volatility %</td>
+<td>Measure regional stability and forecasting consistency</td>
+</tr>
+
+<tr>
+<td>Regional Customer Retention Rate</td>
+<td>Evaluate customer stability across operating regions</td>
+</tr>
+
+</table>
+
+<hr>
+
+<h1>Phase 2 — SQL Data Modeling & Metric Calculation</h1>
+
+<p>
+SQL was used to transform raw transactional datasets into structured analytical tables optimized for reporting, KPI calculation, and dashboard performance.
+</p>
+
+<table>
+<tr>
+<th>SQL Process</th>
+<th>Purpose</th>
+</tr>
+
+<tr>
+<td>Data Cleaning & Standardization</td>
+<td>Improved data consistency and reporting accuracy</td>
+</tr>
+
+<tr>
+<td>Aggregate Table Creation</td>
+<td>Built summary tables for revenue, customers, regions, and sales operations</td>
+</tr>
+
+<tr>
+<td>KPI Calculations</td>
+<td>Calculated core financial, customer, and operational metrics</td>
+</tr>
+
+<tr>
+<td>Customer Tier Classification</td>
+<td>Segmented customers into Top, Mid, and Low-value groups</td>
+</tr>
+
+<tr>
+<td>Cohort Table Development</td>
+<td>Structured customer cohorts for retention and value analysis</td>
+</tr>
+
+<tr>
+<td>Regional Performance Modeling</td>
+<td>Created region-level operational comparison tables</td>
+</tr>
+
+</table>
+
+<hr>
+
+<h1>Phase 3 — Python Analysis & Visualization</h1>
+
+<p>
+Python was used for exploratory analysis, statistical comparison, customer segmentation, cohort analysis, and trend visualization.
+</p>
+
+<h3>Key Activities</h3>
+
+<ul>
+<li>Revenue trend analysis</li>
+<li>Customer value analysis</li>
+<li>Cohort progression analysis</li>
+<li>Customer segmentation modeling</li>
+<li>Regional performance comparison</li>
+<li>Revenue concentration analysis</li>
+<li>Comparative visualizations and insight generation</li>
+</ul>
+
+<hr>
+
+<h1>Phase 4 — Power BI Dashboard Development</h1>
+
+<p>
+Power BI was used to develop an interactive business intelligence dashboard for KPI monitoring, storytelling, and executive decision support.
+</p>
+
+<h3>Key Components</h3>
+
+<ul>
+<li>DAX metric calculations</li>
+<li>Interactive filtering and drill-through analysis</li>
+<li>Customer segmentation dashboard</li>
+<li>Cohort analysis dashboard</li>
+<li>Regional performance dashboard</li>
+<li>Revenue trend and concentration analysis</li>
+<li>Strategic insight presentation</li>
+</ul>
+
+<hr>
+
+<h1>Phase 5 — Executive Presentation & Strategic Reporting</h1>
+
+<p>
+PowerPoint was used to develop an executive-level presentation summarizing:
+</p>
+
+<ul>
+<li>Core business findings</li>
+<li>Revenue sustainability risks</li>
+<li>Customer quality deterioration</li>
+<li>Regional operational performance</li>
+<li>Strategic recommendations</li>
+<li>Long-term business improvement opportunities</li>
+</ul>
 ---
 
 # Deliverables
