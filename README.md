@@ -152,7 +152,8 @@ Defined the core business metrics and KPIs required.
 
 <hr>
 
-<h3> Phase 2 - Phase5: Technical Workflow & Implementation
+<h2> Phase 2 - Phase5: Technical Workflow & Implementation </h2>
+
 <table border="1" cellpadding="10" cellspacing="0">
     <thead>
         <tr>
@@ -162,7 +163,7 @@ Defined the core business metrics and KPIs required.
     </thead>
     <tbody>
         <tr>
-            <td> ### Phase 2 — SQL Data Modeling & Metric Calculation</td>
+            <td><h3> Phase 2 — SQL Data Modeling & Metric Calculation </h3></td>
             <td>
                 <ul>
                     <li>Clean and standardize data to improve consistency and accuracy</li>
