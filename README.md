@@ -155,53 +155,21 @@ Defined the core business metrics and KPIs required.
 <h1>Phase 2 — SQL Data Modeling & Metric Calculation</h1>
 
 <p>
-SQL was used to transform raw transactional datasets into structured analytical tables optimized for reporting, KPI calculation, and dashboard performance.
+Used SQL to:
+
+* Clean and standardize data to improve consistency and accuracy
+
+* Create aggregate tables to pre-calculate metrics for faster Power BI dashboards
+
+* Calculate key financial, customer, and operational KPIs
+
 </p>
-
-<table>
-<tr>
-<th>SQL Process</th>
-<th>Purpose</th>
-</tr>
-
-<tr>
-<td>Data Cleaning & Standardization</td>
-<td>Improved data consistency and reporting accuracy</td>
-</tr>
-
-<tr>
-<td>Aggregate Table Creation</td>
-<td>developed aggregate tables to pre-calculate metrics before loading data into Power BI, significantly enhancing dashboard performance.</td>
-</tr>
-
-<tr>
-<td>KPI Calculations</td>
-<td>Calculated core financial, customer, and operational metrics</td>
-</tr>
-
-<tr>
-<td>Customer Tier Classification</td>
-<td>Segmented customers into Top, Mid, and Low-value groups</td>
-</tr>
-
-<tr>
-<td>Cohort Table Development</td>
-<td>Structured customer cohorts for retention and value analysis</td>
-</tr>
-
-<tr>
-<td>Regional Performance Modeling</td>
-<td>Created region-level operational comparison tables</td>
-</tr>
-
-</table>
-
 <hr>
 
 <h1>Phase 3 — Python Analysis & Visualization</h1>
 
 <p>
-Python was used for exploratory analysis, statistical comparison, customer segmentation, cohort analysis, and trend visualization.
+Python was used for exploratory analysis, statistical comparison and trend visualization.
 </p>
 
 <h3>Key Activities</h3>
