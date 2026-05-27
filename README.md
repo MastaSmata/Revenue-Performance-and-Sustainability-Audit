@@ -23,7 +23,7 @@ Based on the dataset provided and stakeholder expectations, the audit was execut
 <h1>Phase 1 — Metrics & KPI Definition</h1>
 
 <p>
-Defined the core business metrics and KPIs required.
+Defined the core business metrics and KPIs, categorized into three groups.
 </p>
 
 <h3>A. Core Financial & Revenue Concentration Metrics</h3>
@@ -163,7 +163,7 @@ Defined the core business metrics and KPIs required.
     </thead>
     <tbody>
         <tr>
-            <td><h3> Phase 2 — SQL Data Modeling & Metric Calculation </h3></td>
+            <td><h2> Phase 2 — SQL Data Modeling & Metric Calculation </h2></td>
             <td>
                 <ul>
                     <li>Cleaned and standardized data to improve consistency and accuracy</li>
