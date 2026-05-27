@@ -2,7 +2,7 @@
 # Revenue Performance and Sustainability Audit
 
 
-## Business Problem
+# Business Problem
 
 A subscription-based DTC company experienced strong revenue growth in 2025 and needed to understand:
 
@@ -13,7 +13,7 @@ A subscription-based DTC company experienced strong revenue growth in 2025 and n
 The objective was to identify growth drivers, reduce instability, and support long-term strategic planning.
 
 
-## Solution
+# Solution
 
 <p>
 Based on the dataset provided and stakeholder expectations, the audit was executed in five structured phases to evaluate revenue quality, customer sustainability, and regional performance efficiency.
