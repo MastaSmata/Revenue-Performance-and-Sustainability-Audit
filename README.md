@@ -163,7 +163,7 @@ Defined the core business metrics and KPIs, categorized into three groups.
     </thead>
     <tbody>
         <tr>
-            <td><h2> Phase 2 — SQL Data Modeling & Metric Calculation </h2></td>
+            <td><h3> Phase 2 — SQL Data Modeling & Metric Calculation </h3></td>
             <td>
                 <ul>
                     <li>Cleaned and standardized data to improve consistency and accuracy</li>
