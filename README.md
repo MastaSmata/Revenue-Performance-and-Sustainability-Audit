@@ -20,7 +20,7 @@ Based on the dataset provided and stakeholder expectations, the audit was execut
 </p>
 
 
-<h1>Phase 1 — Metrics & KPI Definition</h1>
+<h2>Phase 1 — Metrics & KPI Definition</h2>
 
 <p>
 Defined the core business metrics and KPIs required.
@@ -150,9 +150,9 @@ Defined the core business metrics and KPIs required.
 
 </table>
 
-<hr>
 
-<h1>Phase 2 — SQL Data Modeling & Metric Calculation</h1>
+
+<h2>Phase 2 — SQL Data Modeling & Metric Calculation</h2>
 
 <p>
 Used SQL to:
@@ -164,9 +164,9 @@ Used SQL to:
 * Calculate key financial, customer, and operational KPIs
 
 </p>
-<hr>
 
-<h1>Phase 3 — Python Analysis & Visualization</h1>
+
+<h2>Phase 3 — Python Analysis & Visualization</h2>
 
 <p>
 Python was used for exploratory analysis, statistical comparison and trend visualization.
@@ -184,9 +184,9 @@ Python was used for exploratory analysis, statistical comparison and trend visua
 <li>Comparative visualizations and insight generation</li>
 </ul>
 
-<hr>
 
-<h1>Phase 4 — Power BI Dashboard Development</h1>
+
+<h2>Phase 4 — Power BI Dashboard Development</h2>
 
 <p>
 Power BI was used to develop an interactive business intelligence dashboard for KPI monitoring, storytelling, and executive decision support.
@@ -206,7 +206,7 @@ Power BI was used to develop an interactive business intelligence dashboard for 
 
 <hr>
 
-<h1>Phase 5 — Executive Presentation & Strategic Reporting</h1>
+<h2>Phase 5 — Executive Presentation & Strategic Reporting</h2>
 
 <p>
 PowerPoint was used to develop an executive-level presentation summarizing:
