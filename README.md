@@ -347,8 +347,6 @@ A structured improvement plan was designed to:
 * Strengthen weak regions
 * Replicate Southeast’s stability model
 
-The dashboard uses adjustable spending and purchase-frequency targets to automatically classify customers into strategic segments. This allows leadership teams to simulate customer thresholds, prioritize sales focus areas, optimize retention efforts, and reduce inefficient acquisition spending.
-
 
 ---
 
