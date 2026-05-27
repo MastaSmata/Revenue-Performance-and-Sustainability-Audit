@@ -20,7 +20,7 @@ Based on the dataset provided and stakeholder expectations, the audit was execut
 </p>
 
 
-<h2>Phase 1 — Metrics & KPI Definition</h2>
+<h1>Phase 1 — Metrics & KPI Definition</h1>
 
 <p>
 Defined the core business metrics and KPIs required.
@@ -152,7 +152,7 @@ Defined the core business metrics and KPIs required.
 
 <hr>
 
-<h2> Phase 2 - Phase5: Technical Workflow & Implementation </h2>
+<h1> Technical Workflow & Implementation </h1>
 
 <table border="1" cellpadding="10" cellspacing="0">
     <thead>
