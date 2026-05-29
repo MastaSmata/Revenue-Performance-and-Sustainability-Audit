@@ -4,7 +4,7 @@
 
 # BUSINESS PROBLEM
 
-A subscription-based DTC company experienced strong revenue growth in 2025 and needed to understand:
+A **recurring revenue DTC company** experienced strong revenue growth in 2025 and needed to understand:
 
 * What actually drove the growth
 * Whether the growth was sustainable
