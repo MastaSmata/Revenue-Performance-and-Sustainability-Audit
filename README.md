@@ -293,10 +293,10 @@ This suggests the organization gradually attracted:
 ## 3. Regional Performance & Growth Stability
 
 <div style="display:flex; gap:15px; flex-wrap:wrap;">
-  <img src="https://github.com/user-attachments/assets/c0e5af42-3773-4f4d-805b-09b5a6ee9f4f" width="30%"/>
-  <img src="https://github.com/user-attachments/assets/9095b7b7-65c2-4f7d-9fd4-efb1007a8051" width="30%" />
-  <img src="https://github.com/user-attachments/assets/d79427b4-8b83-42e0-b52b-8d8759b68587"  width="30%"/>
-  <img src="https://github.com/user-attachments/assets/95d715d2-4125-4c4b-b426-b154ef7f8ac8"  width="30%"/>
+  <img src="https://github.com/MastaSmata/Revenue-Performance-and-Sustainability-Audit/blob/main/screenshots/Regional%20Performance%20Analysis/01%20-%20Regional%20Growth%20Imbalance.jpg" width="30%"/>
+  <img src="https://github.com/MastaSmata/Revenue-Performance-and-Sustainability-Audit/blob/main/screenshots/Regional%20Performance%20Analysis/02%20-%20West%20vs%20Midwest.jpg" width="30%" />
+  <img src="https://github.com/MastaSmata/Revenue-Performance-and-Sustainability-Audit/blob/main/screenshots/Regional%20Performance%20Analysis/03%20-%20Regional%20Growth%20Sustainability.jpg"  width="30%"/>
+  <img src="https://github.com/MastaSmata/Revenue-Performance-and-Sustainability-Audit/blob/main/screenshots/Regional%20Performance%20Analysis/04%20-%20NorthEast%20vs%20Southeast.jpg"  width="30%"/>
 </div>
 
 Key findings:
@@ -311,7 +311,7 @@ Key findings:
 ## 4. Revenue Spikes & Business Risk
 
 <div style="display:flex; justify-content:center;">
-  <img src="https://github.com/user-attachments/assets/945b1dd3-3700-416d-8f19-93855a574955" width="60%" />
+  <img src="https://github.com/MastaSmata/Revenue-Performance-and-Sustainability-Audit/blob/main/screenshots/Customer%20Quality%20Analysis/05%20-%20Customer%20Segmentation.jpg" width="60%" />
 </div>
 
 Key insight:
@@ -346,6 +346,11 @@ A structured improvement plan was designed to:
 * Improve retention consistency
 * Strengthen weak regions
 * Replicate Southeast’s stability model
+
+
+<div style="display:flex; justify-content:center;">
+  <img src="https://github.com/MastaSmata/Revenue-Performance-and-Sustainability-Audit/blob/main/screenshots/Regional%20Performance%20Analysis/05%20-%20Regional%20Strategy.jpg" width="70%" />
+</div>
 
 
 ---
