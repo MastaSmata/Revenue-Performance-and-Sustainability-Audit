@@ -201,9 +201,9 @@ Defined the core business metrics and KPIs, categorized into three groups.
 Revenue increased significantly in 2025, but customer quality went down.
 
 <div style="display:flex; gap:15px; flex-wrap:wrap;">
-  <img src="https://github.com/user-attachments/assets/827f3af9-0456-4646-9c2f-3b75f54ce9d4" width="32%" />
-  <img src="https://github.com/user-attachments/assets/1b807eb1-0a2b-4658-ab39-4d6ce44031ae" width="32%" />
-  <img src="https://github.com/user-attachments/assets/e241ea46-7c2d-4085-8fbd-94e454e2e568" width="32%" />
+  <img src="https://github.com/MastaSmata/Revenue-Performance-and-Sustainability-Audit/blob/main/screenshots/Customer%20Quality%20Analysis/01%20-%20Customer%20Decline.jpg" width="32%" />
+  <img src="https://github.com/MastaSmata/Revenue-Performance-and-Sustainability-Audit/blob/main/screenshots/Customer%20Quality%20Analysis/02%20-%20Value%20Shift.jpg" width="32%" />
+  <img src="https://github.com/MastaSmata/Revenue-Performance-and-Sustainability-Audit/blob/main/screenshots/Customer%20Quality%20Analysis/03%20-%20Customer%20Economics.jpg" width="32%" />
 </div>
 
 Key observations:
@@ -217,7 +217,7 @@ Key observations:
 ## 2. Cohort Analysis — Customer Value Growth is slowing over time
 
 <div style="display:flex; justify-content:center;">
-  <img src="https://github.com/user-attachments/assets/f26bbfe0-c372-4fc2-adef-bab7f5f2f311" width="70%" />
+  <img src="https://github.com/MastaSmata/Revenue-Performance-and-Sustainability-Audit/blob/main/screenshots/Customer%20Quality%20Analysis/04%20-%20Cohort%20Analysis.jpg" width="70%" />
 </div>
 
 ### Findings:
