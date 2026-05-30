@@ -198,7 +198,7 @@ Defined the core business metrics and KPIs, categorized into three groups.
 
 ## 1. Decline in Customer Lifetime Value Despite the Massive Growth in Revenue. 
 
-Revenue increased significantly in 2025, but customer quality went down.
+Revenue increased significantly in 2025, but customer quality detoriated.
 
 <div style="display:flex; gap:15px; flex-wrap:wrap;">
   <img src="https://github.com/MastaSmata/Revenue-Performance-and-Sustainability-Audit/blob/main/screenshots/Customer%20Quality%20Analysis/01%20-%20Customer%20Decline.jpg" width="32%" />
@@ -208,10 +208,10 @@ Revenue increased significantly in 2025, but customer quality went down.
 
 Key observations:
 
-* High-value customers reduced spend in 2025
-* Growth became dependent on mid/low-value customers
-* Acquisition drove growth more than retention. Revenue growth was driven mainly by customer volume rather than customer value
-* Returning customers remained the highest value segment
+* High-value customers reduced spend in 2025.
+* Growth became dependent on mid/low-value customers.
+* Acquisition drove growth more than retention. (Revenue growth was driven mainly by customer volume rather than customer value).
+* Though growth was acqusition driven, returning customers remained the highest value segment, indicating that the company acquired mostly low-value customers. 
 
 
 ## 2. Cohort Analysis — Customer Value Growth is slowing over time
@@ -254,8 +254,8 @@ Key observations:
 
 This suggests the organization gradually attracted:
 
-* lower-quality acquisition volume,
-* weaker high-value customer concentration,
+* customers with lower value,
+* decline in concentration of high-value customers,
 * and less profitable customer structures.
 
 #### ii. Value Expansion Decay
@@ -284,9 +284,8 @@ This suggests the organization gradually attracted:
 <br>
 
 * Customer growth was strong in early-stage
-* Value expansion slowed after first year
-* Retention remained stable but monetization weakened
-* Long-term customer development was underperforming
+* Retention remained stable but growth in customer value weakened
+* In conclusion, long-term customer development was underperforming
 
 ---
 
@@ -301,17 +300,17 @@ This suggests the organization gradually attracted:
 
 Key findings:
 
-* West: high growth but highly volatile
-* Southeast: most stable and predictable region
-* Midwest: weak execution despite higher staffing
-* Northeast: growth concentrated in few customers
+* West: high growth but highly volatile revenue structure
+* Southeast: has the most stable and predictable revenue pattern
+* Midwest: weak sales execution despite increase in sales-rep staffing
+* Northeast: revenue growth is concentrated within a few customers
 
 ---
 
 ## 4. Revenue Spikes & Business Risk
 
 <div style="display:flex; justify-content:center;">
-  <img src="https://github.com/MastaSmata/Revenue-Performance-and-Sustainability-Audit/blob/main/screenshots/Customer%20Quality%20Analysis/05%20-%20Customer%20Segmentation.jpg" width="60%" />
+  <img src="https://github.com/MastaSmata/Revenue-Performance-and-Sustainability-Audit/blob/main/screenshots/Screenshot%202026-05-30%20034136.pngg" width="60%" />
 </div>
 
 Key insight:
@@ -327,7 +326,7 @@ Key insight:
 ## 1. Customer Segmentation System
 
 <div style="display:flex; justify-content:center;">
-  <img src="https://github.com/user-attachments/assets/164561ba-4add-4a00-be58-8c44a9c22c42" width="70%" />
+  <img src="https://github.com/MastaSmata/Revenue-Performance-and-Sustainability-Audit/blob/main/screenshots/Customer%20Quality%20Analysis/05%20-%20Customer%20Segmentation.jp" width="70%" />
 </div>
 
 Built an interactive segmentation model to classify customers into:
