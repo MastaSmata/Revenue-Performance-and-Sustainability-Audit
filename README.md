@@ -310,7 +310,7 @@ Key findings:
 ## 4. Revenue Spikes & Business Risk
 
 <div style="display:flex; justify-content:center;">
-  <img src="https://github.com/MastaSmata/Revenue-Performance-and-Sustainability-Audit/blob/main/screenshots/Screenshot%202026-05-30%20034136.pngg" width="60%" />
+  <img src="https://github.com/MastaSmata/Revenue-Performance-and-Sustainability-Audit/blob/main/screenshots/Screenshot%202026-05-30%20034136.png" width="60%" />
 </div>
 
 Key insight:
@@ -326,7 +326,7 @@ Key insight:
 ## 1. Customer Segmentation System
 
 <div style="display:flex; justify-content:center;">
-  <img src="https://github.com/MastaSmata/Revenue-Performance-and-Sustainability-Audit/blob/main/screenshots/Customer%20Quality%20Analysis/05%20-%20Customer%20Segmentation.jp" width="70%" />
+  <img src="https://github.com/MastaSmata/Revenue-Performance-and-Sustainability-Audit/blob/main/screenshots/Customer%20Quality%20Analysis/05%20-%20Customer%20Segmentation.jpg" width="70%" />
 </div>
 
 Built an interactive segmentation model to classify customers into:
