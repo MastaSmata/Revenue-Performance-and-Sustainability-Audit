@@ -4,7 +4,7 @@
 
 # BUSINESS PROBLEM
 
-A **recurring revenue DTC company** experienced strong revenue growth in 2025 and needed to understand:
+A **B2B company** experienced strong revenue growth in 2025 and needed to understand:
 
 * What actually drove the growth
 * Whether the growth was sustainable
