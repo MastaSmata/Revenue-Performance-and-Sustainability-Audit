@@ -193,12 +193,13 @@ Key observations:
 </table>
 
 <br>
-
+<p>
 This suggests the organization gradually attracted:
 
 * customers with lower value,
 * decline in concentration of high-value customers,
 * and less profitable customer structures.
+</p>
 
 #### ii. Value Expansion Decay
 
