@@ -168,7 +168,7 @@ Key observations:
 
 <br>
 
-<table align="center">
+<table align="left">
 
 <tr>
 <th>Cohort Year</th>
