@@ -193,8 +193,8 @@ Key observations:
 
 <br>
 
-<p>
-This suggests the organization gradually attracted:
+
+##### This suggests the organization gradually attracted:
 
 * customers with lower value,
 * decline in concentration of high-value customers,
@@ -226,6 +226,7 @@ This suggests the organization gradually attracted:
 
 <br>
 
+#####
 * Customer growth was strong in early-stage
 * Retention remained stable but growth in customer value weakened
 * In conclusion, long-term customer development was underperforming
