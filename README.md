@@ -189,10 +189,10 @@ Key observations:
 <td align="center">2025</td>
 <td align="center">32%</td>
 </tr>
-
 </table>
 
 <br>
+
 <p>
 This suggests the organization gradually attracted:
 
