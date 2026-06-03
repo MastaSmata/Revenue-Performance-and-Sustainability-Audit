@@ -1,214 +1,151 @@
 
 # REVENUE PERFORMANCE AND SUSTAINABILITY AUDIT
 
+---
 
-# BUSINESS PROBLEM
+## 1. BUSINESS PROBLEM
 
-A **B2B company** experienced strong revenue growth in 2025 and needed to understand:
+A B2B company experienced strong revenue growth in 2025. The core issue was not growth itself, but understanding its quality and durability.
 
-* What actually drove the growth
-* Whether the growth was sustainable
-* What risks could affect performance in 2026
+The analysis focused on:
 
-The objective was to identify growth drivers, reduce instability, and support long-term strategic planning.
+- Identifying primary revenue drivers  
+- Evaluating whether growth is structurally sustainable  
+- Detecting risks that could affect 2026 performance  
 
+**Goal:** Separate real growth signals from short-term performance noise.
 
-# EXECUTION
+---
 
-<p>
-Based on the dataset provided and stakeholder expectations, the audit was executed in five structured phases to evaluate revenue quality, customer sustainability, and regional performance efficiency.
-</p>
+## 2. OBJECTIVE
 
+This project evaluates revenue health across three dimensions:
 
-<h1>Phase 1 — Metrics & KPI Definition</h1>
+- Customer behavior and retention stability  
+- Revenue concentration risk  
+- Regional performance consistency  
 
-<p>
-Defined the core business metrics and KPIs, categorized into three groups.
-</p>
+---
 
-<h3>A. Core Financial & Revenue Concentration Metrics</h3>
+## 3. APPROACH OVERVIEW
 
-<table>
-<tr>
-<th>Metric</th>
-<th>Purpose</th>
-</tr>
+The analysis was executed in a structured 5-phase pipeline:
 
-<tr>
-<td>Total Revenue & YoY Growth</td>
-<td>Evaluate overall revenue growth performance across periods</td>
-</tr>
+<ol>
+  <li>KPI Definition & Metric Design</li>
+  <li>SQL Data Modeling & Aggregation Layer</li>
+  <li>Python Exploratory Data Analysis</li>
+  <li>Power BI Dashboard Development</li>
+  <li>Executive Reporting & Insights Delivery</li>
+</ol>
 
-<tr>
-<td>Regional Revenue Share</td>
-<td>Measure the percentage contribution of each region to total revenue</td>
-</tr>
+---
 
-<tr>
-<td>Customer Concentration %</td>
-<td>Evaluate dependency on Top-, Mid-, and Low-tier customer groups using the 20-30-50 segmentation structure</td>
-</tr>
+## 4. KPI FRAMEWORK (SUMMARY LEVEL)
 
-<tr>
-<td>Revenue Contribution by Customer Tier</td>
-<td>Identify which customer segments drive the highest share of revenue</td>
-</tr>
+### <h3>Financial & Revenue Metrics</h3>
 
-<tr>
-<td>Revenue Volatility %</td>
-<td>Measure instability and fluctuation in regional revenue performance</td>
-</tr>
+<ul>
+  <li>Total Revenue & YoY Growth</li>
+  <li>Revenue Concentration (Top customer dependency)</li>
+  <li>Regional Revenue Share</li>
+  <li>Revenue Volatility Index</li>
+</ul>
 
-</table>
+### <h3>Customer Metrics</h3>
 
-<br>
+<ul>
+  <li>Retention Rate</li>
+  <li>Average Order Value (AOV)</li>
+  <li>Customer Lifetime Value (CLV)</li>
+  <li>Cohort Value Expansion</li>
+</ul>
 
-<h3>B. Customer Quality & Customer Economics Metrics</h3>
+### <h3>Regional Performance Metrics</h3>
 
-<table>
-<tr>
-<th>Metric</th>
-<th>Purpose</th>
-</tr>
+<ul>
+  <li>Revenue per Region</li>
+  <li>Sales Rep Productivity</li>
+  <li>Regional Growth Contribution</li>
+  <li>Regional Stability Index</li>
+</ul>
 
-<tr>
-<td>Customer Growth YoY</td>
-<td>Measure how customer growth contributes to revenue expansion</td>
-</tr>
+<p><b>Note:</b> Full KPI dictionary is available in <code>/docs/kpi_dictionary.md</code></p>
 
-<tr>
-<td>Average Order Value (AOV)</td>
-<td>Evaluate average customer spending per transaction</td>
-</tr>
+---
 
-<tr>
-<td>Average Order Frequency</td>
-<td>Measure customer purchasing consistency and engagement</td>
-</tr>
+## 5. TECHNICAL IMPLEMENTATION
 
-<tr>
-<td>Customer Retention Rate</td>
-<td>Evaluate the ability to retain customers over time</td>
-</tr>
+---
 
-<tr>
-<td>Customer Revenue Growth %</td>
-<td>Identify whether customer segments are growing, stable, declining, or lost</td>
-</tr>
+### <h3>Phase 1 — KPI Design</h3>
 
-<tr>
-<td>Customer Lifetime Value Trend</td>
-<td>Evaluate long-term customer monetization performance</td>
-</tr>
+Defined core business metrics aligned with revenue sustainability and growth quality.
 
-<tr>
-<td>Cohort Value Expansion</td>
-<td>Measure how customer value evolves after acquisition</td>
-</tr>
+---
 
-</table>
+### <h3>Phase 2 — SQL Data Modeling</h3>
 
-<br>
+<ul>
+  <li>Designed a star schema (fact and dimension tables)</li>
+  <li>Built aggregate tables for optimized reporting</li>
+  <li>Implemented KPI calculations in SQL layer</li>
+</ul>
 
-<h3>C. Regional Sales Operations & Performance Metrics</h3>
+---
 
-<table>
-<tr>
-<th>Metric</th>
-<th>Purpose</th>
-</tr>
+### <h3>Phase 3 — Python Exploratory Data Analysis</h3>
 
-<tr>
-<td>Total Revenue by Region</td>
-<td>Compare yearly revenue performance across regions</td>
-</tr>
+<p>Key business questions addressed:</p>
 
-<tr>
-<td>Sales Rep Distribution by Region</td>
-<td>Analyze operational capacity allocation</td>
-</tr>
+<ul>
+  <li>Was revenue growth driven by acquisition or expansion?</li>
+  <li>Is revenue increasingly concentrated in fewer customers?</li>
+  <li>Which regions show stable vs volatile growth patterns?</li>
+  <li>How does customer value evolve over time?</li>
+</ul>
 
-<tr>
-<td>Average Revenue per Sales Rep</td>
-<td>Evaluate sales productivity efficiency by region</td>
-</tr>
+<p>Techniques used:</p>
 
-<tr>
-<td>Revenue Growth Contribution by Region</td>
-<td>Identify which regions drive business growth</td>
-</tr>
+<ul>
+  <li>Cohort analysis</li>
+  <li>Customer segmentation</li>
+  <li>Revenue concentration analysis</li>
+  <li>Volatility and trend decomposition</li>
+</ul>
 
-<tr>
-<td>Regional Revenue Volatility %</td>
-<td>Measure regional stability and forecasting consistency</td>
-</tr>
+---
 
-<tr>
-<td>Regional Customer Retention Rate</td>
-<td>Evaluate customer stability across operating regions</td>
-</tr>
+### <h3>Phase 4 — Power BI Dashboard Development</h3>
 
-</table>
+Developed an interactive BI dashboard for:
 
-<hr>
+<ul>
+  <li>Executive KPI monitoring</li>
+  <li>Revenue performance tracking</li>
+  <li>Customer segmentation analysis</li>
+  <li>Regional performance comparison</li>
+</ul>
 
-<h1> Phase 2 - 4: Technical Workflow & Implementation </h1>
+---
 
-<table border="1" cellpadding="10" cellspacing="0">
-    <thead>
-        <tr>
-            <th>Phase</th>
-            <th>Description</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td><h3> Phase 2 — SQL Data Modeling & Metric Calculation </h3></td>
-            <td>
-                <ul>
-                    <li>Cleaned and standardized data to improve consistency and accuracy</li>
-                    <li>Created star schema and aggregate tables to pre-calculate metrics for faster Power BI dashboards</li>
-                    <li>Calculated key financial, customer, and operational KPIs</li>
-                </ul>
-            </td>
-        </tr>
-        <tr>
-            <td><h3>Phase 3 — Python Exploratory Analysis</h3></td>
-                <td> 
-                    <h3>Python was used to investigate four key business questions:</h3>
-                        <p>1. Was revenue growth driven by customer acquisition or customer value expansion? </p>
-                        <p>2. Was revenue becoming increasingly concentrated among a small group of customers? </p>
-                        <p>3. Which regions generated sustainable growth versus volatile growth? </p>
-                        <p>4. How did customer value evolve over time? </p>
-                    <h3>The analysis included:</h3>
-                    <ul>
-                        <li>Customer segmentation</li>
-                        <li>Cohort analysis</li>
-                        <li>Revenue concentration analysis</li>
-                        <li>Regional volatility analysis</li>
-                        <li>Customer economics analysis</li>
-                    </ul>
-                </td>
-The resulting insights formed the basis of the Power BI dashboards and executive recommendations.</td>
-        </tr>
-        <tr>
-            <td> <h3> Phase 4 — Power BI Dashboard Development </h3> </td>
-            <td>Power BI was used to develop an interactive business intelligence dashboard for KPI monitoring, storytelling, and executive decision support.</td>
-        </tr>
-    </tbody>
-</table>
+### <h3>Phase 5 — Executive Reporting</h3>
 
+Produced a structured executive presentation covering:
 
-
- <h1> Phase 5 — Executive Presentation & Strategic Reporting </h1>
-    PowerPoint was used to develop an executive-level presentation summarizing the key insights.
+<ul>
+  <li>Key insights and patterns</li>
+  <li>Revenue growth drivers</li>
+  <li>Risk exposure analysis</li>
+  <li>Strategic recommendations</li>
+</ul>
 
 ---
 
 
-# Key Insights
+## Key Insights
 
-## 1. Decline in Customer Lifetime Value Despite the Massive Growth in Revenue. 
+### 1. Decline in Customer Lifetime Value Despite the Massive Growth in Revenue. 
 
 Revenue increased significantly in 2025, but customer quality detoriated.
 
