@@ -43,7 +43,7 @@ The analysis was executed in a structured 5-phase pipeline:
 
 ### Phase 1 → KPI FRAMEWORK (SUMMARY LEVEL)
 
-#### <h3>Financial & Revenue Metrics</h3>
+#### Financial & Revenue Metrics
 
 <ul>
   <li>Total Revenue & YoY Growth</li>
@@ -61,7 +61,7 @@ The analysis was executed in a structured 5-phase pipeline:
   <li>Cohort Value Expansion</li>
 </ul>
 
-#### <h3>Regional Performance Metrics</h3>
+#### Regional Performance Metrics
 
 <ul>
   <li>Revenue per Region</li>
