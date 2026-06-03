@@ -72,7 +72,6 @@ The analysis was executed in a structured 5-phase pipeline:
 
 <p><b>Note:</b> Full KPI dictionary is available in <code>/docs/kpi_dictionary.md</code></p>
 
----
 
 ## 5. Phase 2 — SQL Data Modeling
 
@@ -82,7 +81,6 @@ The analysis was executed in a structured 5-phase pipeline:
   <li>Implemented KPI calculations in SQL layer</li>
 </ul>
 
----
 ## 6. Phase 3 — Python Exploratory Data Analysis
 
 <p>Key business questions addressed:</p>
@@ -103,7 +101,7 @@ The analysis was executed in a structured 5-phase pipeline:
   <li>Volatility and trend decomposition</li>
 </ul>
 
-### 7. Phase 4 — Power BI Dashboard Development
+## 7. Phase 4 — Power BI Dashboard Development
 
 Developed an interactive BI dashboard for:
 
@@ -115,7 +113,7 @@ Developed an interactive BI dashboard for:
 </ul>
 
 
-### 8. Phase 5 — Executive Reporting
+## 8. Phase 5 — Executive Reporting
 
 Produced a structured executive presentation covering:
 
