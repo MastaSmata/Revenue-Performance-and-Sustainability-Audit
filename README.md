@@ -135,6 +135,8 @@ Produced a structured executive presentation covering:
 
 # 4. Key Insights
 
+Python exploratory analysis and SQL KPI engineering were used to investigate the business problem, identify growth drivers, assess sustainability risks, and uncover performance patterns. The resulting insights were visualized through Power BI dashboards and translated into executive recommendations through PowerPoint presentations.
+
 ## 1. Decline in Customer Lifetime Value Despite the Massive Growth in Revenue. 
 
 Revenue increased significantly in 2025, but customer quality detoriated.
