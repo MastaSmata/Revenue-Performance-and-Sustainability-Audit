@@ -137,6 +137,7 @@ Produced a structured executive presentation covering:
 
 Python exploratory analysis and SQL KPI engineering were used to investigate the business problem, identify growth drivers, assess sustainability risks, and uncover performance patterns. The resulting insights were visualized through Power BI dashboards and translated into executive recommendations through PowerPoint presentations.
 
+## -
 ## 1. Decline in Customer Lifetime Value Despite the Massive Growth in Revenue. 
 
 Revenue increased significantly in 2025, but customer quality detoriated.
@@ -155,7 +156,6 @@ Key observations:
 * Though growth was acqusition driven, returning customers remained the highest value segment, indicating that the company acquired mostly low-value customers. 
 
 ## -
-
 ## 2. Cohort Analysis — Customer Value Growth is slowing over time
 
 <div style="display:flex; justify-content:center;">
@@ -231,8 +231,7 @@ Key observations:
 * In conclusion, long-term customer development was underperforming
 
 ## -
-
-### 3. Regional Performance & Growth Stability
+## 3. Regional Performance & Growth Stability
 
 <div style="display:flex; gap:15px; flex-wrap:wrap;">
   <img src="https://github.com/MastaSmata/Revenue-Performance-and-Sustainability-Audit/blob/main/screenshots/Regional%20Performance%20Analysis/01%20-%20Regional%20Growth%20Imbalance.jpg" width="30%"/>
@@ -249,8 +248,7 @@ Key findings:
 * Northeast: revenue growth is concentrated within a few customers
 
 ## -
-
-### 4. Revenue Spikes & Business Risk
+## 4. Revenue Spikes & Business Risk
 
 <div style="display:flex; justify-content:center;">
   <img src="https://github.com/MastaSmata/Revenue-Performance-and-Sustainability-Audit/blob/main/screenshots/Screenshot%202026-05-30%20034136.png" width="60%" />
@@ -262,11 +260,13 @@ Key insight:
 * Growth lacked consistency and scalability
 * Performance was dependent on isolated events
 
-## -
+---
 
-## 5. Recommended Strategies
+# 5. Recommended Strategies
 
-### 1. Customer Segmentation System
+After diagnosing the key business problems and opportunities, strategic recommendations were developed to improve growth sustainability, customer value, and operational performance.
+
+## 1. Customer Segmentation System
 
 <div style="display:flex; justify-content:center;">
   <img src="https://github.com/MastaSmata/Revenue-Performance-and-Sustainability-Audit/blob/main/screenshots/Customer%20Quality%20Analysis/05%20-%20Customer%20Segmentation.jpg" width="70%" />
@@ -281,7 +281,6 @@ Built an interactive segmentation model to classify customers into:
 The dashboard uses adjustable spending and purchase-frequency targets to automatically classify customers into strategic segments. This allows leadership teams to simulate customer thresholds, prioritize sales focus areas, optimize retention efforts, and reduce inefficient acquisition spending.
 
 ## -
-
 ### 2. Regional Strategy Framework
 
 A structured improvement plan was designed to:
@@ -299,7 +298,7 @@ A structured improvement plan was designed to:
 
 ---
 
-## 6. Tech Stack & Skills
+# 6. Tech Stack & Skills
 
 * SQL
 * Python
