@@ -80,7 +80,7 @@ The analysis was executed in a structured 5-phase pipeline:
 
 Defined core business metrics aligned with revenue sustainability and growth quality.
 
-----
+* * *
 
 ### <h3>Phase 2 — SQL Data Modeling</h3>
 
@@ -90,7 +90,7 @@ Defined core business metrics aligned with revenue sustainability and growth qua
   <li>Implemented KPI calculations in SQL layer</li>
 </ul>
 
----
+* * *
 
 ### <h3>Phase 3 — Python Exploratory Data Analysis</h3>
 
