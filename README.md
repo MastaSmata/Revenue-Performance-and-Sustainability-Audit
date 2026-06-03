@@ -281,7 +281,7 @@ Built an interactive segmentation model to classify customers into:
 The dashboard uses adjustable spending and purchase-frequency targets to automatically classify customers into strategic segments. This allows leadership teams to simulate customer thresholds, prioritize sales focus areas, optimize retention efforts, and reduce inefficient acquisition spending.
 
 ## -
-### 2. Regional Strategy Framework
+## 2. Regional Strategy Framework
 
 A structured improvement plan was designed to:
 
