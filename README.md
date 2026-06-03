@@ -3,7 +3,7 @@
 
 ---
 
-## 1. BUSINESS PROBLEM
+# 1. BUSINESS PROBLEM
 
 A B2B company experienced strong revenue growth in 2025. The core issue was not growth itself, but understanding its quality and durability.
 
@@ -17,7 +17,7 @@ The analysis focused on:
 
 ---
 
-## 2. OBJECTIVE
+# 2. OBJECTIVE
 
 This project evaluates revenue health across three dimensions:
 
@@ -27,7 +27,7 @@ This project evaluates revenue health across three dimensions:
 
 ---
 
-## 3. APPROACH OVERVIEW
+# 3. APPROACH OVERVIEW
 
 The analysis was executed in a structured 5-phase pipeline:
 
@@ -134,7 +134,7 @@ Produced a structured executive presentation covering:
 ---
 
 
-## 4. Key Insights
+# 4. Key Insights
 
 ### 1. Decline in Customer Lifetime Value Despite the Massive Growth in Revenue. 
 
