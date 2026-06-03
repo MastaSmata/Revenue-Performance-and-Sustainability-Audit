@@ -135,7 +135,7 @@ Produced a structured executive presentation covering:
 
 # 4. Key Insights
 
-### 1. Decline in Customer Lifetime Value Despite the Massive Growth in Revenue. 
+## 1. Decline in Customer Lifetime Value Despite the Massive Growth in Revenue. 
 
 Revenue increased significantly in 2025, but customer quality detoriated.
 
@@ -154,7 +154,7 @@ Key observations:
 
 ## -
 
-### 2. Cohort Analysis — Customer Value Growth is slowing over time
+## 2. Cohort Analysis — Customer Value Growth is slowing over time
 
 <div style="display:flex; justify-content:center;">
   <img src="https://github.com/MastaSmata/Revenue-Performance-and-Sustainability-Audit/blob/main/screenshots/Customer%20Quality%20Analysis/04%20-%20Cohort%20Analysis.jpg" width="70%" />
