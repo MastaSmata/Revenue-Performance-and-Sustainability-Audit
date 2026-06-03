@@ -82,7 +82,7 @@ The analysis was executed in a structured 5-phase pipeline:
   <li>Implemented KPI calculations in SQL layer</li>
 </ul>
 
-
+---
 ## 6. Phase 3 — Python Exploratory Data Analysis
 
 <p>Key business questions addressed:</p>
