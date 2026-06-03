@@ -120,7 +120,7 @@ Developed an interactive BI dashboard for:
 
 # - 
 
-## Phase 5 → Executive Reporting
+### Phase 5 → Executive Reporting
 
 Produced a structured executive presentation covering:
 
