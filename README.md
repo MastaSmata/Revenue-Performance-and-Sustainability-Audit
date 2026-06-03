@@ -41,9 +41,9 @@ The analysis was executed in a structured 5-phase pipeline:
 
 ---
 
-## 4. Phase 1 → KPI FRAMEWORK (SUMMARY LEVEL)
+### Phase 1 → KPI FRAMEWORK (SUMMARY LEVEL)
 
-### <h3>Financial & Revenue Metrics</h3>
+#### <h3>Financial & Revenue Metrics</h3>
 
 <ul>
   <li>Total Revenue & YoY Growth</li>
@@ -52,7 +52,7 @@ The analysis was executed in a structured 5-phase pipeline:
   <li>Revenue Volatility Index</li>
 </ul>
 
-### <h3>Customer Metrics</h3>
+#### Customer Metrics
 
 <ul>
   <li>Retention Rate</li>
@@ -61,7 +61,7 @@ The analysis was executed in a structured 5-phase pipeline:
   <li>Cohort Value Expansion</li>
 </ul>
 
-### <h3>Regional Performance Metrics</h3>
+#### <h3>Regional Performance Metrics</h3>
 
 <ul>
   <li>Revenue per Region</li>
@@ -73,7 +73,7 @@ The analysis was executed in a structured 5-phase pipeline:
 <p><b>Note:</b> Full KPI dictionary is available in <code>/docs/kpi_dictionary.md</code></p>
 
 
-## 5. Phase 2 — SQL Data Modeling
+### Phase 2 → SQL Data Modeling
 
 <ul>
   <li>Designed a star schema (fact and dimension tables)</li>
@@ -81,7 +81,7 @@ The analysis was executed in a structured 5-phase pipeline:
   <li>Implemented KPI calculations in SQL layer</li>
 </ul>
 
-## 6. Phase 3 — Python Exploratory Data Analysis
+### Phase 3 → Python Exploratory Data Analysis
 
 <p>Key business questions addressed:</p>
 
@@ -101,7 +101,7 @@ The analysis was executed in a structured 5-phase pipeline:
   <li>Volatility and trend decomposition</li>
 </ul>
 
-## 7. Phase 4 — Power BI Dashboard Development
+### Phase 4 → Power BI Dashboard Development
 
 Developed an interactive BI dashboard for:
 
@@ -113,7 +113,7 @@ Developed an interactive BI dashboard for:
 </ul>
 
 
-## 8. Phase 5 — Executive Reporting
+## Phase 5 → Executive Reporting
 
 Produced a structured executive presentation covering:
 
@@ -127,7 +127,7 @@ Produced a structured executive presentation covering:
 ---
 
 
-## 9. Key Insights
+## 4. Key Insights
 
 ### 1. Decline in Customer Lifetime Value Despite the Massive Growth in Revenue. 
 
@@ -222,7 +222,7 @@ Key observations:
 * Retention remained stable but growth in customer value weakened
 * In conclusion, long-term customer development was underperforming
 
-## ...
+## -
 
 ### 3. Regional Performance & Growth Stability
 
@@ -240,7 +240,7 @@ Key findings:
 * Midwest: weak sales execution despite increase in sales-rep staffing
 * Northeast: revenue growth is concentrated within a few customers
 
-## ...
+## -
 
 ### 4. Revenue Spikes & Business Risk
 
@@ -256,7 +256,7 @@ Key insight:
 
 ## ...
 
-## 10. Recommended Strategies
+## 5. Recommended Strategies
 
 ### 1. Customer Segmentation System
 
@@ -272,7 +272,7 @@ Built an interactive segmentation model to classify customers into:
 
 The dashboard uses adjustable spending and purchase-frequency targets to automatically classify customers into strategic segments. This allows leadership teams to simulate customer thresholds, prioritize sales focus areas, optimize retention efforts, and reduce inefficient acquisition spending.
 
-## ...
+## -
 
 ### 2. Regional Strategy Framework
 
@@ -291,7 +291,7 @@ A structured improvement plan was designed to:
 
 ---
 
-## Tech Stack & Skills
+## 6. Tech Stack & Skills
 
 * SQL
 * Python
