@@ -41,7 +41,7 @@ The analysis was executed in a structured 5-phase pipeline:
 
 ---
 
-## 4. KPI FRAMEWORK (SUMMARY LEVEL)
+## 4. Phase 1 → KPI FRAMEWORK (SUMMARY LEVEL)
 
 ### <h3>Financial & Revenue Metrics</h3>
 
@@ -74,14 +74,7 @@ The analysis was executed in a structured 5-phase pipeline:
 
 ---
 
-## 5. TECHNICAL IMPLEMENTATION
-
-### <h3>Phase 1 — KPI Design</h3>
-
-Defined core business metrics aligned with revenue sustainability and growth quality.
-
-
-### <h3>Phase 2 — SQL Data Modeling</h3>
+## 5. Phase 2 — SQL Data Modeling
 
 <ul>
   <li>Designed a star schema (fact and dimension tables)</li>
@@ -90,7 +83,7 @@ Defined core business metrics aligned with revenue sustainability and growth qua
 </ul>
 
 
-### <h3>Phase 3 — Python Exploratory Data Analysis</h3>
+## 6. Phase 3 — Python Exploratory Data Analysis
 
 <p>Key business questions addressed:</p>
 
@@ -110,7 +103,7 @@ Defined core business metrics aligned with revenue sustainability and growth qua
   <li>Volatility and trend decomposition</li>
 </ul>
 
-### <h3>Phase 4 — Power BI Dashboard Development</h3>
+### 7. Phase 4 — Power BI Dashboard Development
 
 Developed an interactive BI dashboard for:
 
@@ -122,7 +115,7 @@ Developed an interactive BI dashboard for:
 </ul>
 
 
-### <h3>Phase 5 — Executive Reporting</h3>
+### 8. Phase 5 — Executive Reporting
 
 Produced a structured executive presentation covering:
 
@@ -136,7 +129,7 @@ Produced a structured executive presentation covering:
 ---
 
 
-## Key Insights
+## 9. Key Insights
 
 ### 1. Decline in Customer Lifetime Value Despite the Massive Growth in Revenue. 
 
@@ -155,14 +148,15 @@ Key observations:
 * Acquisition drove growth more than retention. (Revenue growth was driven mainly by customer volume rather than customer value).
 * Though growth was acqusition driven, returning customers remained the highest value segment, indicating that the company acquired mostly low-value customers. 
 
+--- 
 
-## 2. Cohort Analysis — Customer Value Growth is slowing over time
+### 2. Cohort Analysis — Customer Value Growth is slowing over time
 
 <div style="display:flex; justify-content:center;">
   <img src="https://github.com/MastaSmata/Revenue-Performance-and-Sustainability-Audit/blob/main/screenshots/Customer%20Quality%20Analysis/04%20-%20Cohort%20Analysis.jpg" width="70%" />
 </div>
 
-### Findings:
+#### Findings:
 
 #### i. Deteriorating Acquisition Quality
 
@@ -226,14 +220,13 @@ Key observations:
 
 <br clear="left" />
 
-#####
 * Customer growth was strong in early-stage
 * Retention remained stable but growth in customer value weakened
 * In conclusion, long-term customer development was underperforming
 
 ---
 
-## 3. Regional Performance & Growth Stability
+### 3. Regional Performance & Growth Stability
 
 <div style="display:flex; gap:15px; flex-wrap:wrap;">
   <img src="https://github.com/MastaSmata/Revenue-Performance-and-Sustainability-Audit/blob/main/screenshots/Regional%20Performance%20Analysis/01%20-%20Regional%20Growth%20Imbalance.jpg" width="30%"/>
@@ -251,7 +244,7 @@ Key findings:
 
 ---
 
-## 4. Revenue Spikes & Business Risk
+### 4. Revenue Spikes & Business Risk
 
 <div style="display:flex; justify-content:center;">
   <img src="https://github.com/MastaSmata/Revenue-Performance-and-Sustainability-Audit/blob/main/screenshots/Screenshot%202026-05-30%20034136.png" width="60%" />
@@ -265,9 +258,9 @@ Key insight:
 
 ---
 
-# Recommended Strategies
+## 10. Recommended Strategies
 
-## 1. Customer Segmentation System
+### 1. Customer Segmentation System
 
 <div style="display:flex; justify-content:center;">
   <img src="https://github.com/MastaSmata/Revenue-Performance-and-Sustainability-Audit/blob/main/screenshots/Customer%20Quality%20Analysis/05%20-%20Customer%20Segmentation.jpg" width="70%" />
