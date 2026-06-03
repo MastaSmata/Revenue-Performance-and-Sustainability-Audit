@@ -158,7 +158,7 @@ Key observations:
 
 ## 2. Cohort Analysis — Customer Value Growth is slowing over time
 
-<div style="display:flex; justify-content:center;">
+<div style="display:flex; justify-content:left;">
   <img src="https://github.com/MastaSmata/Revenue-Performance-and-Sustainability-Audit/blob/main/screenshots/Customer%20Quality%20Analysis/04%20-%20Cohort%20Analysis.jpg" width="70%" />
 </div>
 
