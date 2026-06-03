@@ -176,18 +176,18 @@ Key observations:
 </tr>
 
 <tr>
-<td align="center">2022</td>
-<td align="center">50%</td>
+<td align="left">2022</td>
+<td align="left">50%</td>
 </tr>
 
 <tr>
-<td align="center">2024</td>
-<td align="center">19%</td>
+<td align="left">2024</td>
+<td align="left">19%</td>
 </tr>
 
 <tr>
-<td align="center">2025</td>
-<td align="center">32%</td>
+<td align="left">2025</td>
+<td align="left">32%</td>
 </tr>
 </table>
 
@@ -205,7 +205,7 @@ This suggests the organization gradually attracted:
 
 <br>
 
-<table align="center">
+<table align="left">
 
 <tr>
 <th>Cohort</th>
@@ -213,13 +213,13 @@ This suggests the organization gradually attracted:
 </tr>
 
 <tr>
-<td align="center">2022 Cohort</td>
-<td align="center">$3K at acquisition → $36K by Year 3</td>
+<td align="left">2022 Cohort</td>
+<td align="left">$3K at acquisition → $36K by Year 3</td>
 </tr>
 
 <tr>
-<td align="center">2023 Cohort</td>
-<td align="center">$29K in Year 1 → $25K in Year 2</td>
+<td align="left">2023 Cohort</td>
+<td align="left">$29K in Year 1 → $25K in Year 2</td>
 </tr>
 
 </table>
