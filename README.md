@@ -152,7 +152,7 @@ Defined the core business metrics and KPIs, categorized into three groups.
 
 <hr>
 
-<h1> Technical Workflow & Implementation </h1>
+<h1> Phase 2 - 4: Technical Workflow & Implementation </h1>
 
 <table border="1" cellpadding="10" cellspacing="0">
     <thead>
@@ -167,29 +167,43 @@ Defined the core business metrics and KPIs, categorized into three groups.
             <td>
                 <ul>
                     <li>Cleaned and standardized data to improve consistency and accuracy</li>
-                    <li>Created aggregate tables to pre-calculate metrics for faster Power BI dashboards</li>
+                    <li>Created star schema and aggregate tables to pre-calculate metrics for faster Power BI dashboards</li>
                     <li>Calculated key financial, customer, and operational KPIs</li>
                 </ul>
             </td>
         </tr>
         <tr>
-            <td><h3>Phase 3 — Python Analysis & Visualization</h3></td>
-            <td>Python was used for exploratory analysis, statistical comparison and trend visualization.</td>
+            <td><h3>Phase 3 — Python Exploratory Analysis</h3></td>
+                <td> 
+                    <h3>Python was used to investigate four key business questions:</h3>
+                    <ul>
+                        <li>1. Was revenue growth driven by customer acquisition or customer value expansion? </li>
+                        <li>2. Was revenue becoming increasingly concentrated among a small group of customers? </li>
+                        <li>3. Which regions generated sustainable growth versus volatile growth? </li>
+                        <li>4. How did customer value evolve over time? </li>
+                    </ul>
+                    <h3>The analysis included:</h3>
+                    <ul>
+                        <li>Customer segmentation</li>
+                        <li>Cohort analysis</li>
+                        <li>Revenue concentration analysis</li>
+                        <li>Regional volatility analysis</li>
+                        <li>Customer economics analysis</li>
+                    </ul>
+                </td>
+The resulting insights formed the basis of the Power BI dashboards and executive recommendations.</td>
         </tr>
         <tr>
             <td> <h3> Phase 4 — Power BI Dashboard Development </h3> </td>
             <td>Power BI was used to develop an interactive business intelligence dashboard for KPI monitoring, storytelling, and executive decision support.</td>
-        </tr>
-        <tr>
-            <td> <h3> Phase 5 — Executive Presentation & Strategic Reporting </h3></td>
-            <td>PowerPoint was used to develop an executive-level presentation summarizing the key insights.</td>
         </tr>
     </tbody>
 </table>
 
 
 
-
+ <h1> Phase 5 — Executive Presentation & Strategic Reporting </h1>
+    PowerPoint was used to develop an executive-level presentation summarizing the key insights.
 
 ---
 
