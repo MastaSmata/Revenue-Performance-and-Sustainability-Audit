@@ -148,7 +148,7 @@ Key observations:
 * Acquisition drove growth more than retention. (Revenue growth was driven mainly by customer volume rather than customer value).
 * Though growth was acqusition driven, returning customers remained the highest value segment, indicating that the company acquired mostly low-value customers. 
 
---- 
+## ...
 
 ### 2. Cohort Analysis — Customer Value Growth is slowing over time
 
@@ -224,7 +224,7 @@ Key observations:
 * Retention remained stable but growth in customer value weakened
 * In conclusion, long-term customer development was underperforming
 
----
+## ...
 
 ### 3. Regional Performance & Growth Stability
 
@@ -242,7 +242,7 @@ Key findings:
 * Midwest: weak sales execution despite increase in sales-rep staffing
 * Northeast: revenue growth is concentrated within a few customers
 
----
+## ...
 
 ### 4. Revenue Spikes & Business Risk
 
@@ -256,7 +256,7 @@ Key insight:
 * Growth lacked consistency and scalability
 * Performance was dependent on isolated events
 
----
+## ...
 
 ## 10. Recommended Strategies
 
@@ -273,6 +273,8 @@ Built an interactive segmentation model to classify customers into:
 * Low-value (selective engagement)
 
 The dashboard uses adjustable spending and purchase-frequency targets to automatically classify customers into strategic segments. This allows leadership teams to simulate customer thresholds, prioritize sales focus areas, optimize retention efforts, and reduce inefficient acquisition spending.
+
+## ...
 
 ### 2. Regional Strategy Framework
 
