@@ -167,7 +167,7 @@ Key observations:
 #### i. Deteriorating Acquisition Quality
 
 <br>
-
+<div>
 <table align="left">
 
 <tr>
@@ -190,8 +190,8 @@ Key observations:
 <td align="left">32%</td>
 </tr>
 </table>
+</div>
 
-<br>
 
 
 ##### This suggests the organization gradually attracted:
@@ -199,12 +199,12 @@ Key observations:
 * customers with lower value,
 * decline in concentration of high-value customers,
 * and less profitable customer structures.
-</p>
 
 #### ii. Value Expansion Decay
 
 <br>
 
+<div>
 <table align="left">
 
 <tr>
@@ -223,7 +223,7 @@ Key observations:
 </tr>
 
 </table>
-
+</div>
 <br>
 
 #####
