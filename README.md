@@ -80,7 +80,6 @@ The analysis was executed in a structured 5-phase pipeline:
 
 Defined core business metrics aligned with revenue sustainability and growth quality.
 
-<hr style="border: none; border-top: 1px solid #ccc;" />
 
 ### <h3>Phase 2 — SQL Data Modeling</h3>
 
@@ -90,7 +89,6 @@ Defined core business metrics aligned with revenue sustainability and growth qua
   <li>Implemented KPI calculations in SQL layer</li>
 </ul>
 
-<hr style="border: none; border-top: 1px solid #ccc;" />
 
 ### <h3>Phase 3 — Python Exploratory Data Analysis</h3>
 
@@ -112,8 +110,6 @@ Defined core business metrics aligned with revenue sustainability and growth qua
   <li>Volatility and trend decomposition</li>
 </ul>
 
----
-
 ### <h3>Phase 4 — Power BI Dashboard Development</h3>
 
 Developed an interactive BI dashboard for:
@@ -125,7 +121,6 @@ Developed an interactive BI dashboard for:
   <li>Regional performance comparison</li>
 </ul>
 
----
 
 ### <h3>Phase 5 — Executive Reporting</h3>
 
