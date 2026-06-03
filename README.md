@@ -204,7 +204,7 @@ Key observations:
 
 <br>
 
-<div>
+
 <table align="left">
 
 <tr>
@@ -223,8 +223,8 @@ Key observations:
 </tr>
 
 </table>
-</div>
-<br>
+
+<br clear="left" />
 
 #####
 * Customer growth was strong in early-stage
