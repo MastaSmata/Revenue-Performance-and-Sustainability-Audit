@@ -166,7 +166,6 @@ Key observations:
 
 #### i. Deteriorating Acquisition Quality
 
-<br>
 <div>
 <table align="left">
 
@@ -190,7 +189,8 @@ Key observations:
 <td align="left">32%</td>
 </tr>
 </table>
-</div>
+
+<br clear="left" />
 
 
 
