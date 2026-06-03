@@ -356,6 +356,7 @@ A structured improvement plan was designed to:
 
 ## Tech Stack & Skills
 
+* SQL
 * Python
 * Power BI
 * PowerPoint
