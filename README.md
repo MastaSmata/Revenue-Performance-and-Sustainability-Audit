@@ -73,7 +73,7 @@ The analysis was executed in a structured 5-phase pipeline:
 
 <p><b>Note:</b> Full KPI dictionary is available in <code>/docs/kpi_dictionary.md</code></p>
 
-# - 
+## - 
 
 ### Phase 2 → SQL Data Modeling
 
@@ -83,7 +83,7 @@ The analysis was executed in a structured 5-phase pipeline:
   <li>Implemented KPI calculations in SQL layer</li>
 </ul>
 
-# - 
+## - 
 
 ### Phase 3 → Python Exploratory Data Analysis
 
@@ -105,7 +105,7 @@ The analysis was executed in a structured 5-phase pipeline:
   <li>Volatility and trend decomposition</li>
 </ul>
 
-# - 
+## - 
 
 ### Phase 4 → Power BI Dashboard Development
 
@@ -118,7 +118,7 @@ Developed an interactive BI dashboard for:
   <li>Regional performance comparison</li>
 </ul>
 
-# - 
+## - 
 
 ### Phase 5 → Executive Reporting
 
@@ -153,7 +153,7 @@ Key observations:
 * Acquisition drove growth more than retention. (Revenue growth was driven mainly by customer volume rather than customer value).
 * Though growth was acqusition driven, returning customers remained the highest value segment, indicating that the company acquired mostly low-value customers. 
 
-## ...
+## -
 
 ### 2. Cohort Analysis — Customer Value Growth is slowing over time
 
@@ -261,7 +261,7 @@ Key insight:
 * Growth lacked consistency and scalability
 * Performance was dependent on isolated events
 
-## ...
+## -
 
 ## 5. Recommended Strategies
 
