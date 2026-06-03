@@ -176,12 +176,10 @@ Defined the core business metrics and KPIs, categorized into three groups.
             <td><h3>Phase 3 — Python Exploratory Analysis</h3></td>
                 <td> 
                     <h3>Python was used to investigate four key business questions:</h3>
-                    <ul>
                         <p>1. Was revenue growth driven by customer acquisition or customer value expansion? </p>
-                        <li>2. Was revenue becoming increasingly concentrated among a small group of customers? </li>
-                        <li>3. Which regions generated sustainable growth versus volatile growth? </li>
-                        <li>4. How did customer value evolve over time? </li>
-                    </ul>
+                        <p>2. Was revenue becoming increasingly concentrated among a small group of customers? </p>
+                        <p>3. Which regions generated sustainable growth versus volatile growth? </p>
+                        <p>4. How did customer value evolve over time? </p>
                     <h3>The analysis included:</h3>
                     <ul>
                         <li>Customer segmentation</li>
