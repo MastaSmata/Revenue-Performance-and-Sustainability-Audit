@@ -76,8 +76,6 @@ The analysis was executed in a structured 5-phase pipeline:
 
 ## 5. TECHNICAL IMPLEMENTATION
 
----
-
 ### <h3>Phase 1 — KPI Design</h3>
 
 Defined core business metrics aligned with revenue sustainability and growth quality.
