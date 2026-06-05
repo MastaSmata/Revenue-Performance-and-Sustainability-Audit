@@ -151,7 +151,7 @@ Revenue increased significantly in 2025, but customer quality detoriated.
 Key observations:
 
 * High-value customers reduced spend in 2025.
-* Growth became dependent on mid/low-value customers.
+* Revenue growth became dependent on mid/low-value customers.
 * Acquisition drove growth more than retention. (Revenue growth was driven mainly by customer volume rather than customer value).
 * Though growth was acqusition driven, returning customers remained the highest value segment, indicating that the company acquired mostly low-value customers. 
 
